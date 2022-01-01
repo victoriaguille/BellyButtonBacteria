@@ -1,2 +1,3 @@
 # BellyButtonBacteria
-Analyzing belly button bacteria with the use of JavaScript, HTML, and Plotly
+####
+A study was performed with test subjects based on the biodiversity of each subject's belly button. These results were put into a json file for analysis and safe keeping. In order to better represent and display the results, JavaScript code, CSS styling, and HTML code was created to produce an interactive webpage for potential users. Within the JavaScript file labeled 'charts', several functions were built to pull the data and then display specific portions of it within a bar graph, bubble chart, and gauge chart. All of these graphs were then tied to div ids in the HTML file labeled 'index'. The combination of the HTML file and JS file results in the web page previoulsy mentioned. 
